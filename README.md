@@ -17,7 +17,7 @@ ENJOY!
 
 
 *******************************REFERENCES:*******************************<br />
-Parts of code for this pronjects have been referred by the following sources:
+Parts of code for this project have been referred by the following sources:
 * Hash algorithm for CTF#3 https://github.com/ypb/pHash/
 * Encryption Algorithm for CTF#3: https://github.com/0x000000AC/Tiny-Encryption-Algorithm
 * Priority Inversion Alforithm for CTF#5: https://github.com/ShawnHymel/introduction-to-rtos/blob/main/11-priority-inversion
