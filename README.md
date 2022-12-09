@@ -16,7 +16,7 @@ For each problem:
 ENJOY!
 
 
-*******************************REFERECES*******************************\\
+*******************************REFERENCES:*******************************<br />
 Parts of code for this pronjects have been referred by the following sources:
 * Hash algorithm for CTF#3 https://github.com/ypb/pHash/
 * Encryption Algorithm for CTF#3: https://github.com/0x000000AC/Tiny-Encryption-Algorithm
