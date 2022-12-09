@@ -2,7 +2,7 @@ These problems are a part of my Master Thesis Project based on
 "Security CTF Problems For Beginning Developers Of Low-Resource Real-Time Embedded Systems Software"
 This reposity contains 5 "coherent" CTF challenges which revolve around a storyline.
 TODO::Include link to thesis?
-Storyline: Please refer to Section 3 of thesis.
+* Storyline: Please refer to Section 3 of thesis.
 
 For each problem:
 * Problem Statement: Refer to Section 4.< Problem Number >.2
