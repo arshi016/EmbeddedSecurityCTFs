@@ -5,8 +5,8 @@ TODO::Include link to thesis?
 Storyline: Please refer to Section 3 of thesis.
 
 For each problem:
-Problem Statement: Refer to Section 4.<Problem Number>.2
-Hints: Please refer to Section 4.<Problem Number>.3
+* Problem Statement: Refer to Section 4.<Problem Number>.2
+* Hints: Please refer to Section 4.<Problem Number>.3
 
   To begin:
   * `cd EmbeddedSecurityCTFs/FreeRTOS/FreeRTOS/Demo/Posix_GCC/`
